@@ -1,0 +1,12 @@
+{
+    "formdata":"Inserisci i tuoi dati personali",
+    "unavail": "Non disponibile",
+    "dsent": "Inviato il",
+    "rcvd": "Ricevuto",    
+    "winner": "Vincitore",
+    "discarded": "Eliminato",
+    "disclaimer": "Cliccando su \"Invia\", dichiari di aver letto e accettato <a href=\"toc.pdf\" target=\"_blank\" class=\"alert-link\">Termini e condizioni</a> del concorso. RUN Polito APS - ETS declina ogni responsabilità nel caso in cui il partecipante non abbia letto e/o compreso detti termini. Dopo il caricamento della proposta, accertati che avvenga il download della ricevuta di partecipazione e della proposta inviata, e conserva accuratamente entrambi i documenti.",
+    "filehelp": "Il file caricato deve essere esclusivamente in formato .pdf e deve rispondere alle specifiche stabilite nel regolamento del contest.",
+    "cardheader": "I dati della tua partecipazione, da salvare con cura:",
+    "footwarn": "ATTENZIONE: non sarà possibile recuperare questi dati in seguito, per favore conservali accuratamente!"
+}

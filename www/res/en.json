@@ -1,0 +1,14 @@
+{
+    "formdata":"Insert your contact details",
+    "unavail": "Unavailable",
+    "dsent": "Date sent",
+    "rcvd": "Received",
+    "winner": "Winner",
+    "discarded": "Discarded",    
+    "disclaimer": "By clicking on \"Send\", you declare that you have read and accepted the <a href=\"toc.pdf\" target=\"_blank\" class=\"alert-link\">Terms and Conditions</a> of this contest. RUN Polito APS - ETS shall not be liable if you don't read and/or understand such Terms and Conditions. After the upload, make sure to download your participation receipt and your uploaded proposal. The download should start automatically.",
+    "filehelp": "Uploaded file must be in .pdf format and must comply with project specifications provided on Terms and Conditions.",
+    "cardheader": "Your participation details, please note them down properly:",
+    "footwarn": "WARNING: you won't be able to retrieve these details later, so write them down and keep them carefully!",    
+    "subject": "Subject",
+    "message": "Message"
+}
